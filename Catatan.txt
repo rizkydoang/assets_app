@@ -1,0 +1,7 @@
+TRX Receipt Notifikasi -> 
+Tombol Void ____V
+dashboard nampilin cuma complete _____ V
+Password hash ______ V
+Created by sam Update by _____V
+Username, Divisi, Branch ______V
+From Divisi to divisi sama2 sesuai user login ____ V

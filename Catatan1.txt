@@ -1,0 +1,13 @@
+Status
+CRUD Status
+
+
+Tambah Storage di Werehouse
+Storage table sendiri isinya barang - barang complete movement status baru (A)
+dibuka divisi semua 
+Yg bisa liat 1 - 5 divisi id
+
+
+Transaction -> 
+
+submenu pilih barang asset code / product
